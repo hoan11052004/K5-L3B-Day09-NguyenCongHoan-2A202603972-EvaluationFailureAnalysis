@@ -34,7 +34,7 @@
 | `pass_5` | Năng lực (độ ổn định) | ≥ 0.80 | Không | 0.9286 |
 | `cost_per_success` | Vận hành hệ thống | Tăng không quá 10% ($\le$ 54.52) | Không | 49.5670 |
 
-> *"Không giảm có ý nghĩa"* được định nghĩa toán học: Khoảng tin cậy 95% (95% CI) tính bằng phương pháp Paired Bootstrap của hiệu số $\Delta$ (PR − Baseline) không được nằm hoàn toàn bên dưới 0 ($hi < 0$).
+> *"Không giảm có ý nghĩa"* được định nghĩa toán học: Khoảng tin cậy 95% (95% CI) tính bằng phương pháp Paired Bootstrap của hiệu số $\Delta$ (PR − Baseline) không được nằm hoàn toàn bên dưới 0.
 
 ## 4. Failure mode → Grader
 | FM | Mô tả ngắn | Grader | Code hay Judge | Vì sao chọn loại đó |
@@ -76,6 +76,5 @@
 ## Phê duyệt
 | Vai trò | Tên | Ngày phê duyệt | Chữ ký |
 |---|---|---|---|
-| Product Manager | Trần Minh Tuấn | 18/11/2026 | Đã duyệt |
-| Eval Owner (Giữ Gate) | Nguyễn Hoàng Bảo | 18/11/2026 | Đã duyệt |
-| Head of AI & Operations | Lê Quang Huy | 18/11/2026 | Đã duyệt |
+| Product Manager | Product Team (LogiX-VN) | 18/11/2026 | Đã duyệt |
+| Eval Owner (Giữ Gate) | Nguyễn Công Hoàn  | 18/11/2026 | Đã duyệt |
